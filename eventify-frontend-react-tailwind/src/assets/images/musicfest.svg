@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="800" fill="url(#g)"/>
+  <g fill="white" fill-opacity="0.12">
+    <circle cx="200" cy="120" r="90"/>
+    <circle cx="1280" cy="100" r="120"/>
+    <circle cx="900" cy="700" r="140"/>
+    <rect x="100" y="550" width="220" height="120" rx="20"/>
+    <rect x="1140" y="540" width="180" height="120" rx="20"/>
+  </g>
+  <text x="700" y="420" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="800" fill="white">Indie Music Fest</text>
+  <text x="700" y="480" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="28" fill="white" opacity="0.9">React • Tailwind • Demo Banner</text>
+</svg>
